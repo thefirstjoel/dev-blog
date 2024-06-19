@@ -1,0 +1,4 @@
+baseURL = 'https://www.joelconrad.xyz/blog'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'hugoplate'
